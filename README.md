@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alauddin Sabar
 - 👀 I’m interested in Data Science and AI
-- 🌱 I’m currently learning Devops and developing my Deep learning skills. 
+- 🌱 I’m currently learning DevOps and developing my Deep learning skills. 
 - 💞️ I’m looking to collaborate on Data Science and AI application.
 - 📫 How to reach me email- aladinsabari@gmail.com    Linkedin : https://www.linkedin.com/in/alauddin-sabari-355984199/
 
