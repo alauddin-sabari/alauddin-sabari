@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alauddin Sabar
+- 👋 Hi, I’m Alauddin Sabari
 - 👀 I’m interested in Data Science and AI
 - 🌱 I’m currently learning DevOps and developing my Deep learning skills. 
 - 💞️ I’m looking to collaborate on Data Science and AI application.
