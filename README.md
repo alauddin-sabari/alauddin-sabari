@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alauddin Sabari
-- 👀 I’m interested in Data Science and AI
+- 👀 I’m interested in Data Science and AI and NLP/LLM based application Developer
 - 🌱 I’m currently learning DevOps and developing my Deep learning skills. 
 - 💞️ I’m looking to collaborate on Data Science and AI application.
 - 📫 How to reach me email- aladinsabari@gmail.com    Linkedin : https://www.linkedin.com/in/alauddin-sabari-355984199/
