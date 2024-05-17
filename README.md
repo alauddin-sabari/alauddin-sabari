@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alauddin Sabari
-- 👀 I’m a   Data Sciencentist  and AI and NLP/LLM based application  Developer.
+- 👀 I’m a Full-stack Developer  with  expertise on integration of Data Science, AI and NLP/LLM to make AI powerd application.
 - 🌱 I’m currently learning DevOps and developing my Deep learning skills. 
 - 💞️ I’m looking to collaborate on Data Science and AI application.
 - 📫 How to reach me email- aladinsabari@gmail.com    Linkedin : https://www.linkedin.com/in/alauddin-sabari-355984199/
