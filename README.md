@@ -1,29 +1,95 @@
-# Hi, I'm Alauddin Sabari 👋  
+# Alauddin Sabari
 
-## 🧠 Software Developer | Researcher | Data Science & AI Specialist
-
-I am a results-driven Software Developer and Researcher with expertise in Data Science, AI, and NLP/LLM technologies. My passion lies in creating AI-powered solutions and currently focussing on building solutions for healthcare as well as for industrial AI-powerd applications.
-
-### 🔬 Research & Professional Interests:
-- AI-powered Softwared development
-- Natural Language Processing (NLP) & Large Language Models (LLMs)
-- Deep Learning and Computer Vision
-- Data Science Applications in Healthcare and Industry
-- AI-Driven Predictive Analytics
-
-### 💼 Professional Expertise:
-- Experienced in building and deploying AI and machine learning models for real-world use cases.
-- Proficient in integrating Data Science, NLP, and Deep Learning techniques.
-- Strong background in developing scalable solutions for healthcare and industrial challenges.
-- Currently enhancing skills in DevOps for efficient model deployment.
-
-### 🤝 Let's Collaborate:
-Open to research partnerships and contributing to impactful projects in Data Science and AI applications.
-
-📫 **Reach Me At:**  
-- 📧 Email: aladinsabari@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/alauddin-sabari-355984199/)  
+**M.S. Applied Statistics & Data Science + Computer Science **  
+**AI Researcher | Data Scientist | AI integrated Application  Developer**  
+📍 Arlington, Texas, USA  
 
 ---
-*Innovating with AI to drive meaningful change in industries and healthcare.* 🚀
 
+## 🔬 Current Focus
+I work at the intersection of **applied statistics, machine learning, and software systems**, with a strong emphasis on **reliable, interpretable, and scalable AI solutions**.  
+My current research and development focus includes:
+
+- AI/ML pipelines for real-world decision support  
+- Android application security and permission analysis  
+- LLM-assisted data labeling and evaluation workflows  
+- Explainable AI (XAI) and model interpretability  
+- Statistical validation and reproducible experimentation  
+
+---
+
+## 🧠 Research Interests
+- Applied Statistics & Statistical Machine Learning  
+- AI Evaluation & Trustworthy AI  
+- Android Security & Software Analysis  
+- Large-Scale Data Pipelines  
+- NLP & Large Language Models (LLMs)  
+- Explainable AI (SHAP, feature attribution)  
+
+---
+
+## 🛠️ Technical Skillset
+
+### Programming & Data
+- **Python**, **R**, Java, C/C++  
+- Pandas, NumPy, SciPy, scikit-learn  
+
+### Machine Learning & AI
+- Regression, Classification, Clustering, PCA  
+- Deep Learning (PyTorch, TensorFlow)  
+- NLP & LLM-based workflows  
+- Model evaluation & error analysis  
+
+### Statistics & Analysis
+- Statistical modeling & inference  
+- Hypothesis testing & validation  
+- Experimental design  
+- Interpretable modeling (SHAP, XAI)  
+
+### Systems & Tools
+- Android APK & manifest analysis  
+- FastAPI, Flask, Django  
+- Git, Linux, LaTeX  
+- Reproducible research pipelines  
+
+---
+
+## 📊 Selected Research & Publications
+- **LandSin** – Differential ML and Google API-enabled system for real-time land insights  
+  *Software Impacts (Elsevier), 2024*  
+
+- **MLBlock** – Machine Learning, Blockchain, and XAI for transparent land valuation  
+  *IEEE / ICCIT*  
+
+- Multiple IEEE conference publications in  
+  *AI, analytics, healthcare, and applied machine learning*
+
+> Full publication list available on my website.
+
+---
+
+## 🚀 What You’ll Find in This GitHub
+This GitHub serves as a **technical and research portfolio**, including:
+- Research-oriented ML experiments  
+- Data preprocessing and pipeline code  
+- Reproducible analysis notebooks  
+- Prototypes supporting published and ongoing work  
+
+---
+
+## 🎓 Affiliation
+**The University of Texas at Arlington (UTA)**  
+M.S. in Applied Statistics & Data Science  
+Prospective PhD Applicant (CS / AI / Data Science)
+
+---
+
+## 🔗 Links
+- 🌐 Website: **https://alauddinsabari.com**  
+- 🎥 Research Video: *(see website)*  
+- 💼 LinkedIn: https://www.linkedin.com/in/alauddin-sabari-355984199  
+- 📧 Email: aladinsabari@gmail.com  
+
+---
+
+> *I am actively seeking  research collaborations, and impactful industry roles in AI, Data Science, and applied machine learning.*
